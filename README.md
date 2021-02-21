@@ -6,7 +6,7 @@
  ## Usage
  
 
-    $ ./script.php
+    $ ./script.php input.json
 
  ## Tests
  
